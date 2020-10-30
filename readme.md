@@ -15,6 +15,8 @@ An easy to setup and easy to use Welcome System Bot for Discord.js with the pack
  
  **3.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install node.js discord.js canvas`**
  
+ **3.1** Fill in everything in config.json
+ 
  **4.** start the bot with **`node index.js`**
 
 ### Usage - index.js
