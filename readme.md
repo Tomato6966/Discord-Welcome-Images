@@ -46,6 +46,8 @@ client.login(config.TOKEN);                    //start the bot with the bot toke
 
 #### **NOTE:**
 
+*You can edit the Welcome image, but make sure it is in the same layout or else it will mess up the placing, if you know how to code with canvas you can fix this if not i suggest you to not change the layout, and dont rename the image file*
+
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
 
 
