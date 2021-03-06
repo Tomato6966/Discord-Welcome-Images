@@ -7,6 +7,8 @@
 
 An easy to setup and easy to use Welcome System Bot for Discord.js with the package `canvas`
 
+## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+
 ## Installation | How to use the Bot
 
  **1.** Install [node.js v12](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
@@ -50,9 +52,17 @@ client.login(config.TOKEN);                    //start the bot with the bot toke
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
 
+# SUPPORT ME AND MILRATO DEVELOPMENT
 
+You can always Support me by inviting one of my **own Discord Bots**
 
-## BEST HOSTING | Bittmax.de
+[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
+[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
+
+## Sponsors
+
+### BEST HOSTING | Bittmax.de
 BITTMAX Quality is their solution.
 Bittmax is our first and probably most important sponsor!
 
@@ -73,7 +83,7 @@ Bittmax is our first and probably most important sponsor!
 GET **5%** OFF EVERYTHING FOR EVER!
 Code: **`x10`**
 
-## MC-Host24.de
+### MC-Host24.de
 MC-Host24.de is selling the Best Digital Hosting Services ever!
 Like For games..
 
@@ -90,19 +100,3 @@ Like For games..
 
 **Website:**
 [mc-host24.de](https://mc-host24.de/user/affiliate/3121])
-
-
-## SUPPORT ME
-
-You can always Support me by inviting one of my **own Discord Bots**
-
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.eu)
-
-[OTHER BOTS](https://bots.musicium.eu)
-
-[| fork my repository  |](https://github.com/user/repository/fork)
-[watch this repo  |](https://github.com/user/repository/subscription)
-[create issue |](https://github.com/user/repository/issues/new)
-
-*Both bots are still in Development, and will always be in development, this means always uptodate and always online and always improving!*
